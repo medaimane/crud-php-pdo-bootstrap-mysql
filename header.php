@@ -1,3 +1,11 @@
+<?php 
+/*
+  Author : Mohamed Aimane Skhairi
+  Email : skhairimedaimane@gmail.com
+  Repo : https://github.com/medaimane/crud-php-pdo-bootstrap-mysql
+*/
+?>
+
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>

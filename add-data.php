@@ -1,4 +1,10 @@
 <?php
+/*
+  Author : Mohamed Aimane Skhairi
+  Email : skhairimedaimane@gmail.com
+  Repo : https://github.com/medaimane/crud-php-pdo-bootstrap-mysql
+*/
+
 include_once 'dbconfig.php'; // include l'instance de la class crud.
 if(isset($_POST['btn-save'])){ // test sur le bouton. 
 	$fname = $_POST['first_name']; // affectation des valeur evoier par la method post.

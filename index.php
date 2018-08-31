@@ -1,3 +1,10 @@
+<?php 
+/*
+  Author : Mohamed Aimane Skhairi
+  Email : skhairimedaimane@gmail.com
+  Repo : https://github.com/medaimane/crud-php-pdo-bootstrap-mysql
+*/
+?>
 <?php include_once 'dbconfig.php'; ?> <!--inclure de l'instance de la class crud-->
 <?php include_once 'header.php'; ?> <!--inclure le header de la page -->
 

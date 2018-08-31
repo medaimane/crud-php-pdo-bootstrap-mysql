@@ -1,3 +1,9 @@
+/*
+  Author : Mohamed Aimane Skhairi
+  Email : skhairimedaimane@gmail.com
+  Repo : https://github.com/medaimane/crud-php-pdo-bootstrap-mysql
+*/
+
 -- phpMyAdmin SQL Dump
 -- version 4.5.2
 -- http://www.phpmyadmin.net

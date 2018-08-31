@@ -1,4 +1,10 @@
 <?php
+/*
+  Author : Mohamed Aimane Skhairi
+  Email : skhairimedaimane@gmail.com
+  Repo : https://github.com/medaimane/crud-php-pdo-bootstrap-mysql
+*/
+
 class crud // la class des operations avec la base de données.
 {
 	private $db;

@@ -1,4 +1,10 @@
 <?php
+/*
+  Author : Mohamed Aimane Skhairi
+  Email : skhairimedaimane@gmail.com
+  Repo : https://github.com/medaimane/crud-php-pdo-bootstrap-mysql
+*/
+
 include_once 'dbconfig.php';
 
 if(isset($_POST['btn-del']))
