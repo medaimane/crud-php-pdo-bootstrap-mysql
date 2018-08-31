@@ -1,5 +1,4 @@
-# crud-php-pdo-bootstrap-mysql
-# full-stack-boilerplate-project
+# simple-crud-php-pdo-bootstrap-mysql
 
 Technologies : 
 
