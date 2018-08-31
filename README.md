@@ -1,7 +1,7 @@
 # simple-crud-php-pdo-bootstrap-mysql
 
 # Tools
-PHP,PDO,MySQL, Atom, Git, Linux
+OOP, PHP, PDO, MySQL, Atom, Git, Linux
 
 # Author
 Mohamed Aimane SKHAIRI
