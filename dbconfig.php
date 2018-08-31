@@ -1,7 +1,7 @@
 <?php
 $DB_host = "localhost";
-$DB_user = "medaimane";
-$DB_pass = "che@mysql";
+$DB_user = "root";
+$DB_pass = "toor";
 $DB_name = "dbpdo";
 
 try
