@@ -1,13 +1,27 @@
-# simple-crud-php-pdo-bootstrap-mysql
+# CRUD Sample: PHP, Bootstrap and MySQL
 
-# Tools
-OOP, PHP, PDO, MySQL, Atom, Git, Linux
+## Features
 
-# Author
-Mohamed Aimane SKHAIRI
+- Impliminting OOP for PHP.
+- Connecting PHP and MySQL database using the PDO module.  
+- Impliminting CRUD operations.
+- HTTP requests handling.
+- Adding some styles using Bootstrap. 
 
-# Contact 
-skhairimedaimane@gmail.com
+## Technologies & tools
 
-# License
-GNU GPL v3.0.
+- PHP,
+- Bootstrap,
+- MySQL,
+- Atom, 
+- Git, 
+- Linux.
+
+## Creators
+  
+  Mohamed Aimane Skhairi
+  skhairimedaimane@gmail.com
+
+## License
+
+This project is open-sourced software licensed under the [MIT License](https://opensource.org/licenses/MIT)
